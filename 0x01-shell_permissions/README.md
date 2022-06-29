@@ -1,1 +1,1 @@
-changing owner of file
+script to add execute permission to the owner
